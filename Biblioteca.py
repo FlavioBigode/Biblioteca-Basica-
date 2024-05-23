@@ -1,7 +1,7 @@
 user = {}
 
 def cadastro():
-    print("\nBem-vindo ao cadastro de usuários!")
+    print("\nBem-vindo ao cadastro de usuários!")asda
     
     email = input("Digite o seu e-mail: ")
     senha = input("Digite uma senha: ")
